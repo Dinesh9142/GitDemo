@@ -3,5 +3,7 @@ public class JavaDemo{
 
 public void testMethod(){
 //Code come here
+  String value = "Dinesh";
+  System.out.println("Print Name: "+value);
 }
 }
