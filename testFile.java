@@ -6,4 +6,8 @@ public void testMethod(){
   String value = "Dinesh";
   System.out.println("Print Name: "+value);
 }
+  
+  public void testMethod2(){
+  //Code
+  }
 }
